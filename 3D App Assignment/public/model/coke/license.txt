@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coca Cola Drink Can
+* source:	https://sketchfab.com/3d-models/coca-cola-drink-can-86fc31e805f84be28c12c43c34c56f80
+* author:	Smoggybeard (https://sketchfab.com/Smoggybeard)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coca Cola Drink Can" (https://sketchfab.com/3d-models/coca-cola-drink-can-86fc31e805f84be28c12c43c34c56f80) by Smoggybeard (https://sketchfab.com/Smoggybeard) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
